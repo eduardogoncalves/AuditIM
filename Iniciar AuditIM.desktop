@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=AuditIM
+Comment=Auditoria de Mensageiros Instantaneos
+Exec=/home/itamareduardo/AuditIM/AuditIM
+TryExec=/home/itamareduardo/AuditIM/AuditIM
+StartupNotify=false
+Terminal=false
+Type=Application
+Icon=/home/itamareduardo/AuditIM/auditim.png
+Name[pt_BR]=Iniciar AuditIM
